@@ -1,0 +1,1 @@
+web: gunicorn vpre.wsgi:application --log-file -
